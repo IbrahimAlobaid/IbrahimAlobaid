@@ -147,3 +147,5 @@ I am interested in collaborations around **LLM systems, Voice AI, multimodal app
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00A6A6,55:0B3A53,100:0D1117)
 
 </div>
+
+<!-- GitHub profile README activated after repository rename. -->
