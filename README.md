@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0B3A53,100:00A6A6&text=Ibrahim%20Alobaid&fontColor=F0F6FC&fontSize=48&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20LLM%20%26%20Multimodal%20AI%20%E2%80%A2%20Voice%20Agents&descAlignY=58&descSize=18&animation=fadeIn)
+![Ibrahim Alobaid — AI Engineer](./assets/profile-header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+that+work+beyond+the+demo;Real-time+Voice+AI+%7C+LLM+Systems+%7C+Computer+Vision;Turning+research+ideas+into+reliable+AI+products)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## About me
 
-I am an **AI Engineer at Amani AI** and an **AI master's researcher at Aleppo University**, focused on building production-minded intelligent systems not isolated model demos.
+I am an **AI Engineer at Amani AI** and an **AI master's researcher at Aleppo University**, focused on building production-minded intelligent systems—not isolated model demos.
 
 My work sits at the intersection of **real-time Voice AI, LLM-powered automation, multimodal systems, Computer Vision, and reliable data pipelines**. I enjoy taking an idea from research and evaluation through backend integration, deployment, observability, and real-world iteration.
 
@@ -144,8 +144,6 @@ I am interested in collaborations around **LLM systems, Voice AI, multimodal app
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IbrahimAlobaid&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00A6A6,55:0B3A53,100:0D1117)
+![Ibrahim Alobaid profile footer](./assets/profile-footer.svg)
 
 </div>
-
-<!-- GitHub profile README activated after repository rename. -->
