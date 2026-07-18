@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="95" viewBox="0 0 1200 95" role="img" aria-labelledby="title">
+  <title id="title">Ibrahim Alobaid profile footer</title>
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#080c14"/>
+      <stop offset="0.5" stop-color="#0c2633"/>
+      <stop offset="1" stop-color="#063b43"/>
+    </linearGradient>
+    <linearGradient id="footer-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="95" rx="14" fill="url(#footer-bg)"/>
+  <rect x="250" y="25" width="700" height="2" rx="1" fill="url(#footer-line)"/>
+  <text x="600" y="58" text-anchor="middle" fill="#c9d1d9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="1.4">BUILD · EVALUATE · DEPLOY · IMPROVE</text>
+  <circle cx="456" cy="76" r="3" fill="#22d3ee"/><circle cx="600" cy="76" r="3" fill="#2dd4bf"/><circle cx="744" cy="76" r="3" fill="#22d3ee"/>
+</svg>
