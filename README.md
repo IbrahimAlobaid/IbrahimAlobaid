@@ -115,8 +115,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=IbrahimAlobaid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Ibrahim's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAlobaid&layout=compact&hide_border=true&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9&langs_count=8" alt="Most used languages" />
+![Ibrahim Alobaid engineering overview](./assets/github-overview.svg)
 
 ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimAlobaid&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=22D3EE&area=true&hide_border=true)
 
