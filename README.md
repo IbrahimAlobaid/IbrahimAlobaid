@@ -13,7 +13,7 @@
 
 ## About me
 
-I am an **AI Engineer at Amani AI** and an **AI master's researcher at Aleppo University**, focused on building production-minded intelligent systems—not isolated model demos.
+I am an **AI Engineer at Amani AI** and an **AI master's researcher at Aleppo University**, focused on building production-minded intelligent systems not isolated model demos.
 
 My work sits at the intersection of **real-time Voice AI, LLM-powered automation, multimodal systems, Computer Vision, and reliable data pipelines**. I enjoy taking an idea from research and evaluation through backend integration, deployment, observability, and real-world iteration.
 
